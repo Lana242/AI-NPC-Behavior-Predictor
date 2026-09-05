@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+gymnasium
+stable-baselines3
+joblib
+matplotlib
+jupyter
