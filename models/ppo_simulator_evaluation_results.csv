@@ -1,0 +1,2 @@
+mean_episode_reward,std_episode_reward,mean_episode_length,min_episode_length,max_episode_length,attack_percentage,chase_percentage,patrol_percentage,retreat_percentage,search_percentage,take_cover_percentage
+96.26,38.97527934473338,43.1,19,60,15.220417633410674,2.0417633410672855,3.897911832946636,24.083526682134572,47.88863109048724,6.867749419953596
