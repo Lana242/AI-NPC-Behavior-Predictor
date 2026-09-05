@@ -47,9 +47,6 @@ we give the AI information about the situation:
 ⏱️ Time Since Seen
 ```
 
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/1a005ba9-682f-4bc2-a5e0-41ff67d10e5d" />
-
-
 Then the NPC has to decide:
 
 ```text
@@ -66,6 +63,9 @@ Suddenly, the NPC isn't just following one script.
 It's choosing.
 
 ---
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/1a005ba9-682f-4bc2-a5e0-41ff67d10e5d" />
+
 
 ## 🤖 Two Different Ways to Build the NPC
 
@@ -161,6 +161,9 @@ Different games use very different technologies, but they all chase the same goa
 ### Make the player feel like the world is reacting to them.
 
 ---
+
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/478e9235-ab10-4cb3-a106-8902d52bb51f" />
+
 
 ## 🚀 What This Project Demonstrates
 
